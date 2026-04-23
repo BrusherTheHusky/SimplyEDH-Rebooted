@@ -1,5 +1,5 @@
 {
-  "SaveName": "SimplyEDH Rebooted - An Uncluttered Magic the Gathering Commander Table",
+  "SaveName": "MTG Commander (SimplyEDH Rebooted)",
   "EpochTime": 1776984300,
   "Date": "4/23/2026 11:45:00 PM",
   "VersionNumber": "v14.1",
@@ -7,12 +7,12 @@
   "GameType": "Game",
   "GameComplexity": "Low Complexity",
   "PlayingTime": [
-    0,
-    0
+    30,
+    180
   ],
   "PlayerCounts": [
-    0,
-    0
+    2,
+    4
   ],
   "Tags": [
     "Card Games",
